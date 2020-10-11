@@ -1,0 +1,223 @@
+body {
+    background: #00CC52;
+
+}
+
+.container {
+    width: 95%;
+}
+
+header .row {
+    margin-left: 0;
+}
+
+header .row p {
+    margin-left: 70px;
+}
+
+header img {
+    padding: 40px 20px 30px 20px;
+    border-bottom-left-radius: 10%;
+    border-bottom-right-radius: 10%;
+    background-color: white;
+}
+
+header p {
+    position: relative;
+    left: 100px;
+    top: 30px;
+    width: 391px;
+    height: 84px;
+    font-weight: 500;
+    font-size: 72px;
+    line-height: 84px;
+    color: #FFFFFF;
+}
+
+header{
+    display: inline;
+}
+
+.container .kontent {
+    margin-top: 74px;
+}
+
+.row {
+    margin-bottom: 65px;
+}
+
+.item {
+    padding: 0;
+    background-color: white;
+    overflow: hidden;
+    border-radius: 10px;
+    position: relative;
+    height: 100%;
+}
+
+.item h1 {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 28px;
+    color: #000000;
+    margin-top: 17px;
+}
+
+.item h1 {
+    margin: 18px 0 0 20px;
+
+}
+
+.item .icon{
+    margin-left: 20px;
+    width: 200px;
+    padding: 8px 0;
+}
+
+.item .poisk {
+    position: absolute;
+    bottom: 20px;
+    right: 23px;
+}
+
+.item p {
+    height: 27px;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    color: #4B4B4B;
+    margin-left: 22px;
+}
+
+.item .poisk {
+    width: 57px;
+    height: 57px;
+}
+
+.glavnoe {
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+.more {
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+}
+
+footer {
+    margin-top: 106px;
+    width: 1211px;
+    height: 193px;
+    margin-left: 80px;
+    color: #FFFFFF;
+}
+
+footer a img {
+    position: relative;
+    top: 20px;
+    left: 200px;
+    width: 62.31px;
+    height: 62.31px;
+    margin-left: 13px;
+}
+
+.kontakt {
+    position: relative;
+    left: 440px;
+    top: 20px;
+    width: 500px;
+    text-align: center;
+    font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 37px;
+
+}
+.row h4 {
+    position: relative;
+    left: 650px;
+    top: 20px;
+    font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 42px;
+}
+
+.menu {
+    position: absolute;
+    z-index: 1;
+    left: 390px;
+    top: 0px;
+}
+img#super {
+    position: absolute;
+}
+.bob {
+    position: relative;
+    left: 45px;
+    top: 50px;
+    cursor: pointer;
+}
+.bob2 {
+    position: relative;
+    cursor: pointer;
+    right: 187px;
+    bottom: 100px;
+}
+.menu2,
+input[type="checkbox"] {
+display: none;
+}
+
+input[type="checkbox"]:checked ~ .menu2 {
+display: block;
+}
+.menu2 {
+    position: absolute;
+    z-index: 2;
+    left: 390px;
+    top: 0px;
+}
+.menu2 p {
+   position: relative;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 28px;
+  
+  color: #00CC52;
+  left: 43px;
+  bottom: 152px;
+}
+.menu2 h1 {
+  position: relative;
+  font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+left: 43px;
+bottom: 149px;
+
+color: #00CC52;
+}
+.menu2 h2 {
+  position: relative;
+  font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #00CC52;
+left: 43px;
+bottom: 141px;
+}
+a {
+  text-decoration: none;
+}
+img#user {
+    position: relative;
+    bottom: 320px;
+    left: 47px;
+}
