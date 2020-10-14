@@ -346,8 +346,11 @@ cursor: pointer;
 .vhod {
     position: relative;
 height: 100vh;
+width: 100%;
+background-color: #00CC52;
+
     
-    background: #00CC52 url(../imgs/localgroup.png) bottom left no-repeat;
+    /* background: #00CC52 url(../imgs/localgroup.png) bottom left no-repeat; */
 
 }
 /* img#cat {
@@ -424,7 +427,7 @@ img#has {
 }
 img#cat2 {
     position: relative;
-    top: 211px;
+    top: 200px;
 }
 .vhod2 h1 {
     position: absolute;
