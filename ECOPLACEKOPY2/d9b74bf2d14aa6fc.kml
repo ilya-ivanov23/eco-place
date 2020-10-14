@@ -1,0 +1,1985 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Бумага</name>
+    <description/>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0288D1-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Бумага</name>
+      <Placemark>
+        <name>ОАО «Белвторресурсы»</name>
+        <description>Пн-Пт 9.00-17.00 Суббота 9.00-15.00 Выходные: воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.5446672,53.9638238,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ОАО «Белвторресурсы»</name>
+        <description>Пн-Пт: с 9:00 до 19:00, Сб: с 9:00 до 14:00 Вых.: Воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.5375668,53.9593006,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ОАО «Белвторресурсы»</name>
+        <description>Пн-Пт: с 9:00 до 19:00, Сб: с 9:00 до 14:00, Вых.: воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.5884942,53.9684352,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Экорес»</name>
+        <description>Вторник, пятница: 9:00-11:00</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.6245025000001,53.9478906,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ОАО «Белвторресурсы»</name>
+        <description>Пн-Пт: с 9:00 до 19:00, Сб: с 9:00 до 14:00 Вых.: Воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.613189,53.9633395,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ООО «Стандарт Резерв»</name>
+        <description>Пн. – Пт.: 8.00 – 16.00 Вых.: Сб., Вс.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.608715,53.9555095,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ЧП «БелРосЛогистик»</name>
+        <description>Вт., чт.17:00-21:00</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.6121374,53.9603987,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Минсккоопвторресурсы»</name>
+        <description>Пн-Пт 9.00-18.00 Суббота 9.00-16.00 Выходные: воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.6312676,53.9589023,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Минсккоопвторресурсы»</name>
+        <description>Пн-Пт 9.00-13.30 Суббота 9.00-12.30Выходные: воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.628074,53.9577734,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Минсккоопвторресурсы»</name>
+        <description>Пн.-пт.- 8.00-16.00.суббота- 8.00-10.00, воскресенье - выходной</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.5970259000001,53.9489292,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ООО «ЮниАлкоГрупп»</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            27.6199294,53.9478637,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Малулатура</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            27.6302719,53.947709,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Белзаготресурсы»</name>
+        <description>Пн-пт.9.00-18.00</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.6312977,53.9427939,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Белзаготресурсы»</name>
+        <description>Пн.-пт.8.00-20.00</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.6420066000001,53.9387814,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Экорес»</name>
+        <description>Четверг : 9:00-10:00</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.6537307,53.9382099,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ОАО «Белвторресурсы»</name>
+        <description>Пн-Пт: с 9:00 до 19:00, Сб: с 9:00 до 14:00, Вых.: воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.6583842,53.9235709,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Минсккоопвторресурсы»</name>
+        <description>Пн-Пт 9.00-13.30 Суббота 9.00-12.30 Выходные: воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.6678418,53.9152407,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Минсккоопвторресурсы»</name>
+        <description>Пн-Пт 9.00-13.30 Суббота 9.00-12.30 Выходные: воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.686164,53.9041962,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ОАО «Белвторресурсы»</name>
+        <description>Пн-Пт: с 9:00 до 19:00, Сб: с 9:00 до 14:00, Вых.: воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.6800752,53.8992307,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ОДО «Вторматериалы»</name>
+        <description>13.00-15.00(вторник, среда)</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.6892801,53.889472,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Экорес»</name>
+        <description>Вторник, четверг :10:30-12:30</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.6864266,53.8847171,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Экорес»</name>
+        <description>Вторник, четверг :10:30-12:30</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.6864266,53.8847171,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Экорес»</name>
+        <description>Вторник, пятница: 9:00-11:00</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.6876876,53.8686333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ЧП «БелРосЛогистик»</name>
+        <description>ПН-ПТ: 9:00-17:00</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.6801648,53.8658244,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Минсккоопвторресурсы»</name>
+        <description>Пн-Пт 9.00-13.30 Суббота 9.00-12.30 Выходные: воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.6519764,53.8384194,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Экорес»</name>
+        <description>Понедельник, среда, пятница : 9:00-12:00</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.6425725,53.8462988,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ОАО «Белвторресурсы»</name>
+        <description>Пн-Пт:с 9:00 до 19:00, Сб: с 9:00 до 14:00, Вых.: Воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.6387744,53.84615,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ЧП «БелРосЛогистик»</name>
+        <description>ПН-ПТ: 9:00-17:00</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.6314015,53.8432338,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Экорес»</name>
+        <description>Понедельник, четверг: 9:00-11:00</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.6275683,53.838804,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ОАО «Белвторресурсы»</name>
+        <description>Пн-Пт: с 9:00 до 19:00, Сб: с 9:00 до 14:00, Вых.: Воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.5692381,53.837704,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ОАО «Белвторресурсы»</name>
+        <description>Пн-Пт:с 9:00 до 19:00,Сб: с 9:00 до 14:00, Вых.: Воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.5761529,53.8488135,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ОАО «Белвторресурсы»</name>
+        <description>Пн-Пт:с 9:00 до 19:00, Сб: с 9:00 до 14:00, Вых.: Воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.5580024999999,53.8443952,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Минсккоопвторресурсы»</name>
+        <description>Пн-Пт 9.00-11.45 Суббота 9.00-11.15 Выходные: воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.5533086,53.8503322,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Экорес»</name>
+        <description>Понедельник, четверг: 9:00-11:00</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.5441429,53.8471564,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ОАО «Белвторресурсы»</name>
+        <description>Пн-Пт: с 9:00 до 19:00, Сб: с 9:00 до 14:00, Вых.: воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.5371421,53.8443297,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ОАО «Белвторресурсы»</name>
+        <description>Пн-Пт: с 9:00 до 19:00, Сб: с 9:00 до 14:00, Вых.: воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.5299680000001,53.8487704,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Экорес»</name>
+        <description>Понедельник, среда: 9:00-11:00</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.5022822999999,53.8504096,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Минсккоопвторресурсы»</name>
+        <description>Пн-Пт 9.00-18.00 Суббота 9.00-16.00 Выходные: воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.4941244,53.8460181,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ОАО «Белвторресурсы»</name>
+        <description>Пн-Пт: с 9:00 до 19:00, Сб: с 9:00 до 14:00, Вых.: воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.462092,53.8442686,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ОАО «Белвторресурсы»</name>
+        <description>Пн-Пт: с 9:00 до 19:00, Сб: с 9:00 до 14:00, Вых.: воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.5997099,53.8478685,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Экорес»</name>
+        <description>Понедельник, среда, пятница:9:00-11:00</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.4287789,53.864489,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ОАО «Белвторресурсы»</name>
+        <description>Пн-Пт 9.00-18.00 Суббота 9.00-14.00 Выходные: воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.4159393,53.8935899,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ОАО «Белвторресурсы»</name>
+        <description>Пн-Пт: с 9:00 до 19:00, Сб: с 9:00 до 14:00 Вых.: Воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.4249005,53.9230765,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Белзаготресурсы»</name>
+        <description>Пн-пт.9.00-18.00</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.6312977,53.9427939,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Белзаготресурсы»</name>
+        <description>9.00-17.00</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.6157074,53.9387972,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Минсккоопвторресурсы»</name>
+        <description>Пн-Пт 9.00-13.30 Суббота 9.00-12.30 Выходные: воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.5838994000001,53.9440968,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ОАО «Белвторресурсы»</name>
+        <description>Пн-Пт: с 9:00 до 19:00, Сб: с 9:00 до 14:00, Вых.: воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.6268377,53.9344172,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Минсккоопвторресурсы»</name>
+        <description>Пн-Пт 9.00-17.00 Суббота 9.00-15.00 Выходные: воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.6165363,53.9294145,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ОАО «Белвторресурсы»</name>
+        <description>Пн-Пт: с 9:00 до 19:00, Сб: с 9:00 до 14:00, Вых.: воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.6061384,53.9326532,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ЧП «БелРосЛогистик»</name>
+        <description>9:00-17:00</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.6055902000001,53.9353156,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ОАО «Белвторресурсы»</name>
+        <description>Пн-Пт: с 9:00 до 19:00, Сб: с 9:00 до 14:00, Вых.: воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.6334115,53.9107354,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Минсккоопвторресурсы»</name>
+        <description>Пн-Пт 9.00-17.00 Суббота 9.00-15.00 Выходные: воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.6450777,53.9090468,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Минсккоопвторресурсы»</name>
+        <description>Пн-Пт 9.00-18.00 Выходные: суббота, воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.6564020000001,53.89417,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ОАО «Белвторресурсы»</name>
+        <description>Пн-Пт: с 9:00 до 19:00, Сб: с 9:00 до 14:00, Вых.: воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.6632572,53.8850579,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Экорес»</name>
+        <description>Понедельник, четверг: 9:00-11:00</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.6690942,53.8798824,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Минсккоопвторресурсы»</name>
+        <description>Пн-Пт 9.00-14.00 Выходные: суббота, воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.6474304,53.8901178,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ОАО «Белвторресурсы»</name>
+        <description>Пн-Пт: с 9:00 до 19:00, Сб: с 9:00 до 14:00, Вых.: воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.647679,53.8715197,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Минсккоопвторресурсы»</name>
+        <description>Пн-Пт 9.00-14.00 Выходные: суббота, воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.6386592,53.878023,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[УП "Экорес"]]></name>
+        <description>с 8 до 12 каждый день кроме сб и вс</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.6292071,53.8696735,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Экорес»</name>
+        <description>Понедельник, среда: 9:00-11:00</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.6335994999999,53.858716,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Минсккоопвторресурсы»</name>
+        <description>Пн-Пт 9.00-17.00 Суббота 9.00-15.00 Выходные: воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.6215486999999,53.8629177,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Минсккоопвторресурсы»</name>
+        <description>Пн-Пт 9.00-17.00 Суббота 9.00-15.00 Выходные: воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.6148063,53.8608415,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ЧП «БелРосЛогистик»</name>
+        <description>ПН-ПТ: 9:00-17:00</description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            27.6136128,53.8607458,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ОАО «Белвторресурсы»</name>
+        <description>Пн-Пт:с 9:00 до 19:00, Сб: с 9:00 до 14:00 Вых.: Воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.5644237,53.8586079,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Минсккоопвторресурсы»</name>
+        <description>Пн-Пт 9.00-14.00 Выходные: суббота, воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.5597513,53.8655077,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ОАО «Белвторресурсы»</name>
+        <description>Пн-Пт: с 9:00 до 19:00, Сб: с 9:00 до 14:00, Вых.: воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.535052,53.8602275,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Экорес»</name>
+        <description>Понедельник, среда: 9:00-11:00</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.5204086,53.8594084,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Минсккоопвторресурсы»</name>
+        <description>Пн-Пт 9.00-13.30 Суббота 9.00-12.30 Выходные: воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.5226454,53.8611731,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ОАО «Белвторресурсы»</name>
+        <description>Пн-Пт: с 9:00 до 19:00, Сб: с 9:00 до 14:00, Вых.: воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.5022434,53.8580923,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Минсккоопвторресурсы»</name>
+        <description>Пн-Пт 9.00-13.30 Суббота 9.00-12.30</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.5201962,53.874003,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ЧП «БелРосЛогистик»</name>
+        <description>ПН-ПТ: 9:00 -17:00</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.5305662000001,53.8743592,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Белзаготресурсы»</name>
+        <description>ПН-ПТ 9.00-17.00</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.5302174999999,53.8748099,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ОАО «Белвторресурсы»</name>
+        <description>Пн-Пт: с 9:00 до 19:00, Сб: с 9:00 до 14:00, Вых.: воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.5332264,53.8806982,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Минсккоопвторресурсы»</name>
+        <description>Пн-Пт9.00-16.00 Выходные:суббота, воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.5018133,53.8774554,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ОАО «Белвторресурсы»</name>
+        <description>Пн-Пт: с 9:00 до 19:00, Сб: с 9:00 до 14:00, Вых.: воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.4582561,53.855393,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Минсккоопвторресурсы»</name>
+        <description>Пн-Пт 9.00-13.30 Суббота 9.00-12.30 Выходные: воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.4791972,53.8733942,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ОДО «Вторматериалы»</name>
+        <description>16.30- 18.00 (вторник, среда, четверг)</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.4539088,53.8781452,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ОАО «Белвторресурсы»</name>
+        <description>Пн-Пт 9.00-15.15 Суббота 9.00-14.45 Выходные: воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.4537463,53.8825947,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Минсккоопвторресурсы»</name>
+        <description>Пн-Пт 9.00-18.00 Суббота 9.00-16.00 Выходные: воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.447804,53.8929119,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ЧП «БелРосЛогистик»</name>
+        <description>ПН-ПТ 9:00-17:00</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.4467418,53.9006814,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Экорес»</name>
+        <description>Понедельник, четверг:14:00-16:00</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.4569398,53.8993662,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Минсккоопвторресурсы»</name>
+        <description>Пн-Пт 9.00-17.00 Суббота 9.00-15.00 Выходные: воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.4688593,53.8931833,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Экорес»</name>
+        <description>Понедельник, четверг:14:00-16:00</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.4589764,53.8997109,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Минсккоопвторресурсы»</name>
+        <description>Пн-Пт 9.00-17.00 Суббота 9.00-15.00 Выходные: воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.459324,53.902995,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Экорес»</name>
+        <description>Понедельник, вторник, четверг, пятница:9:00-11:00</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.4608154,53.9033758,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Минсккоопвторресурсы»</name>
+        <description>Пн-Пт 9.00-13.30 Суббота 9.00-12.30 Выходные: воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.4635243,53.9036792,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ОАО «Белвторресурсы»</name>
+        <description>Пн-Пт: с 9:00 до 19:00, Сб: с 9:00 до 14:00 Вых.: Воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.4497243000001,53.9074368,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ОДО «Вторматериалы»</name>
+        <description>ПН-ПТ 9:00-17:00</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.4394704,53.9122241,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ОАО Белвторресурсы</name>
+        <description>Пн-Пт: с 09:00 до17:00 обед 13:00-14:00 Сб: с 09:00 до 14:00; вых: воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.4559338,53.9160807,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ОАО Белвторресурсы</name>
+        <description>Понедельник – Пятница 9:00–18:00, Перерыв13:00–14:00 Суббота9:00–14:00</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.4679874999999,53.9159351,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Экорес»</name>
+        <description>Понедельник – пятница: 10:00-14:00</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.4739526999999,53.9085602,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ЧП «БелРосЛогистик»</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            27.4796337,53.9164378,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Минсккоопвторресурсы»</name>
+        <description>Пн-Пт 9.00-13.30 Суббота 9.00-12.30 Выходные: воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.4840265,53.9285555,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Экорес»</name>
+        <description>Пн-Пт:с 9:00 до 19:00,Сбс 9:00 до 14:00 Вых.: Воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.5049068999999,53.9320493,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ОДО «Вторматериалы»</name>
+        <description>14.00- 16.00 (вторник, среда, четверг)</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.4897483,53.911886,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Минсккоопвторресурсы»</name>
+        <description>Пн-Пт 9.00-14.00 Выходные: суббота, воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.4973685,53.9054632,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ООО «Белпромтара»</name>
+        <description>Понедельник, среда: 9:00-10:30</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.498157,53.9019678,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Экорес»</name>
+        <description>Понедельник, пятница:14:00-16:00</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.5029673,53.8973789,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Минсккоопвторресурсы»</name>
+        <description>Пн-Пт 9.00-18.00 Выходные:суббота, воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.5102002,53.8977357,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ОАО «Белвторресурсы»</name>
+        <description>Пн-Пт: с 9:00 до 19:00, Сб: с 9:00 до 14:00, Вых.: воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.5092766,53.8989833,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ОАО «Белвторресурсы»</name>
+        <description>Будние дни: с 09:00 до 18:00 (обед с 13:00 до 14:00) Суббота: с 09:00 до 14:00 Воскресенье: выходной день.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.5136763,53.8967289,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Минсккоопвторресурсы»</name>
+        <description>Пн-Пт 9.00-13.30 Суббота 9.00-12.30 Выходные: воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.5187287,53.8965183,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ОАО «Белвторресурсы»</name>
+        <description>Пн-Пт: с 9:00 до 19:00, Сб: с 9:00 до 14:00, Вых.: воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.5259608,53.8960935,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Минсккоопвторресурсы»</name>
+        <description>Пн-Пт 9.00-13.30 Суббота 9.00-12.30 Выходные: воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.531793,53.8974546,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ОАО «Белвторресурсы»</name>
+        <description>Пн-Пт: с 9:00 до 19:00, Сб: с 9:00 до 14:00, Вых.: воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.5137386,53.8847945,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ЧП «БелРосЛогистик»</name>
+        <description>ПН-ПТ 9:00-17:00</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.5082341,53.9110376,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Минсккоопвторресурсы»</name>
+        <description>Пн-Пт 9.00-13.30 Суббота 9.00-12.30 Выходные: воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.5064182,53.9050287,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Минсккоопвторресурсы»</name>
+        <description>Понедельник –пятница: 13.30-15.30(вторник, среда, четверг)</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.5238186,53.916192,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Экорес»</name>
+        <description>Понедельник – четверг: 14:00-16:00</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.5359817999999,53.9158286,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Экорес»</name>
+        <description>Вторник: 9:00-10:30</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.5274569000001,53.9096043,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Экорес»</name>
+        <description>Среда: 9:00-10:00</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.5486817,53.9253143,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ЧП «БелРосЛогистик»</name>
+        <description>ПН-ПТ 9:00-17:00</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.5001806,53.9199418,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Минсккоопвторресурсы»</name>
+        <description>Пн-Пт 9.00-13.30 Суббота 9.00-12.30 Выходные: воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.5292389,53.8961454,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ОАО «Белвторресурсы»</name>
+        <description>Пн-Пт: с 9:00 до 19:00, Сб: с 9:00 до 14:00, Вых.: воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.5858545,53.9249292,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Экорес»</name>
+        <description>Пн-Пт:с 9:00 до 19:00,Сб с 9:00 до 14:00 Вых.: Воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.5767887,53.9243243,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ЧП «БелРосЛогистик»</name>
+        <description>9:00 -17:00</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.5730818,53.9232882,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ОДО «Вторматериалы»</name>
+        <description>13.30-15.00 (понедельник, среда, пятница)</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.5773948,53.919799,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Экорес»</name>
+        <description>Вторник, пятница:9:00-11:00</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.5650567,53.9191103,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Минсккоопвторресурсы»</name>
+        <description>Пн-Пт 9.00-13.30 Суббота 9.00-12.30 Выходные: воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.5657515,53.9416041,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ОАО «Белвторресурсы»</name>
+        <description>Пн-Пт: с 9:00 до 19:00, Сб: с 9:00 до 14:00, Вых.: воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.5745982,53.939616,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ОДО «Вторматериалы»</name>
+        <description>15.00- 17.00 (понедельник, среда, пятница)</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.5825126,53.9339972,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ОДО «Вторматериалы»</name>
+        <description>9:00-17:00</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.5858438,53.9294208,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Минсккоопвторресурсы»</name>
+        <description>Пн-Пт 9.00-15.15 Суббота 9.00-13.45 Выходные: воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.6218421,53.8992043,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Минсккоопвторресурсы»</name>
+        <description>Пн-Пт 9.00-13.30 Суббота 9.00-12.30 Выходные: воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.6102627,53.9073341,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ЧП «БелРосЛогистик»
+</name>
+        <description>9:00-17:00</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.6151548,53.901896,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ЧП «БелРосЛогистик»</name>
+        <description>ПН-ПТ: 9:00-17:00</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.6136128000001,53.8615557,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Минсккоопвторресурсы»</name>
+        <description>Пн-Пт 9.00-17.00 Суббота 9.00-15.00 Выходные: воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.5999810000001,53.8672984,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ОАО «Белвторресурсы»</name>
+        <description>Пн-Пт: с 9:00 до 19:00, Сб: с 9:00 до 14:00, Вых.: Воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.590881,53.8708502,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Минсккоопвторресурсы»</name>
+        <description>Пн-Пт 9.00-17.00 Суббота 9.00-15.00 Выходные: воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.5845557,53.8667155,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Экорес»</name>
+        <description>Понедельник, среда, пятница: 10:00-11:00</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.6113322,53.8783017,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ЧП «БелРосЛогистик»</name>
+        <description>9:00-17:00</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.6104665,53.880499,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Минсккоопвторресурсы»</name>
+        <description>Пн-Пт 9.00-17.00 Суббота 9.00-15.00 Выходные: воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.5989438,53.8671177,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ОАО «Белвторресурсы»</name>
+        <description>Пн-Пт:с 9:00 до 19:00, Сб: с 9:00 до 14:00 Вых.: Воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.5650888,53.8603575,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Минсккоопвторресурсы»</name>
+        <description>Пн-Пт 13.30-18.00 Суббота 12.30-16.00 Выходные: воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.5790577,53.8708185,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ОАО «Белвторресурсы»</name>
+        <description>Пн-Пт: с 9:00 до 19:00, Сб: с 9:00 до 14:00, Вых.: воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.5562345,53.8751159,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ОАО «Белвторресурсы»</name>
+        <description>Пн-Пт: с 9:00 до 19:00, Сб: с 9:00 до 14:00, Вых.: воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.548252,53.8716398,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Минсккоопвторресурсы»</name>
+        <description>Пн-Пт 9.00-13.30 Суббота 9.00-12.30 Выходные: воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.5447283999999,53.9375284,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Минсккоопвторресурсы»</name>
+        <description>Пн-Пт 9.00-13.30 Суббота 9.00-12.30 Выходные: воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.5461576,53.9349142,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Минсккоопвторресурсы»</name>
+        <description>Пн-Пт 9.00-13.30 Суббота 9.00-12.30 Выходные: воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.5614780999999,53.9024683,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Минсккоопвторресурсы»</name>
+        <description>Пн-Пт 9.00-13.30 Суббота 9.00-12.30 Выходные: воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.6843819000001,53.925377,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Экорес»</name>
+        <description>Вторник, четверг: 14:00-16:00</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.6846188,53.9386772,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ОАО «Белвторресурсы»</name>
+        <description>Пн-Пт: с 9:00 до 19:00, Сб: с 9:00 до 14:00, Вых.: воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.6947953,53.9399947,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ОАО «Белвторресурсы»</name>
+        <description>Пн-Пт 9.00-13.30 Суббота 9.00-12.30 Выходные: воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.6968291000001,53.9335047,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ОАО «Белвторресурсы»</name>
+        <description>Пн-Пт: с 9:00 до 19:00, Сб: с 9:00 до 14:00, Вых.: воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.7255708,53.9393325,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ОАО «Белвторресурсы»</name>
+        <description>Пн-Пт: с 9:00 до 19:00, Сб: с 9:00 до 14:00, Вых.: воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.6927654,53.9552905,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ОАО «Белвторресурсы»</name>
+        <description>Пн-Пт: с 9:00 до 19:00, Сб: с 9:00 до 14:00, Вых.: воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.7111593,53.9540758,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Минсккоопвторресурсы»</name>
+        <description>Пн-Пт 9.00-18.00 Суббота 9.00-16.00 Выходные: воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.7378258,53.9588741,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ОАО «Белвторресурсы»</name>
+        <description>Пн.-пт.: 9:00-17:00 Сб.: 9:00-14:00</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.7144944,53.8576063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ОДО «Вторматериалы»</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            27.6795093000001,54.012885,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Минсккоопвторресурсы»</name>
+        <description>Пн-Пт 9.00-17.00 Суббота 9.00-15.00 Выходные: воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.6804990000001,53.8551529,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ОДО «Вторматериалы»</name>
+        <description>15.00-17.00(вторник, среда)</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.7024286999999,53.8477071,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Экорес»</name>
+        <description>Понедельник, среда, пятница: 14:00-16:00</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.7059637999999,53.8444506,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ОАО «Белвторресурсы»</name>
+        <description>Пн-Пт: с 9:00 до 19:00, Сб: с 9:00 до 14:00, Вых.: воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.6972519999999,53.8412159,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ОАО «Белвторресурсы»</name>
+        <description>Пн-Пт: с 9:00 до 19:00, Сб: с 9:00 до 14:00, Вых.: воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.687808,53.8335477,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ОАО «Белвторресурсы»</name>
+        <description>Пн-Пт:с 9:00 до 19:00,Сб с 9:00 до 14:00 Вых.: Воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.774151,53.8277999,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ОАО «Белпромтара»</name>
+        <description>ПН-ПТ: 8.30-17.15</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.5789185,53.8132932,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Минсккоопвторресурсы»</name>
+        <description>Пн-Пт 9.00-17.00 Суббота 9.00-15.00 Выходные: воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.5841915999999,53.8123399,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>УП «Золотой путь»</name>
+        <description>ПН-ПТ: 9.00-18.00</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.5865653,53.8088905,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ОДО «Автопрофиль»</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            27.5892021,53.8079465,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ОДО «Вторматериалы»
+</name>
+        <description>10.00 -15.00(понедельник - пятница)</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.5880162999999,53.8010532,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Минское райпо</name>
+        <description>Вторник-пятница: с 10.00 до 15.00. Суббота: с 10.00 до 12.00. Выходной: воскресенье, понедельник</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.2921365,53.9985686,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Приемозаготовительный пункт</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            27.1382108,53.6894516,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ЖКХ </name>
+        <description>С 10.00-13.00 Выходной –понедельник</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            28.6225542,53.3019638,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ЖКХ </name>
+        <description>С 10.00-13.00 Выходной –понедельник</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            28.6495874,53.3111349,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ЖКХ </name>
+        <description>С 9.00-16.00 обед с 13.00-14.00. Выходной –суббота, воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            28.6545853,53.3118857,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ЖКХ </name>
+        <description>С 8.00-17.00 обед с 13.00-14.00.Выходной –суббота, воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            28.6140465999999,53.3009832,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ЖКХ </name>
+        <description>ежедневно: с 9-00 до 17-00</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            28.996007,53.3974634,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ЖКХ</name>
+        <description>ежедневно с 8.00-13.00; 14.00- 17.00 кроме субботы и воскресенья</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            29.3440871,53.486667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ЖКХ</name>
+        <description>8.00-17.00 , сб.-с 9.00-12.00Обед 13.00-14.00Выходной : воскресенье</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.6515039,53.8698399,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ЖКХ</name>
+        <description>Пн.-Пт. с 9.00-16.00</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            31.0069649,59.8779178,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ЖЭУ 12</name>
+        <description>Пн.-пт.: с 08.00 -17.00 обед с 13.00-14.00 суббота - с 08.00 до 12.00</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            29.2287919,53.1940151,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ОАО «БелМеталл»</name>
+        <description>Вторник-пятница 9.00-16.00 Суббота-воскресенье 9.00-15.00</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            29.2223091,53.190672,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>БУКДПОЖФ Первомайского р-на г. Бобруйска</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            29.1939772000001,53.1764067,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ЖЭУ 9</name>
+        <description>Пн.-пт.: с 08.00 -17.00 обед с 13.00-14.00 суббота - с 08.00 до 12.00</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            29.1893531,53.1726299,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ЖЭУ 6</name>
+        <description>Пн.-пт.: с 08.00 -17.00 обед с 13.00-14.00 суббота - с 08.00 до 12.00</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            29.1983642,53.1697828,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[УЧТП "Фуджера"]]></name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            29.2010805,53.1699066,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ЖЭУ 8</name>
+        <description>Пн.-пт.: с 08.00 -17.00обед с 13.00-14.00суббота - с 08.00 до 12.00</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            29.203715,53.1687616,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[ОАО "БелМеталл" филиал в г. Бобруйске]]></name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            29.1845039,53.1658787,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ЖЭУ 9</name>
+        <description>Пн.-пт.: с 08.00 -17.00 обед с 13.00-14.00 суббота - с 08.00 до 12.00</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            29.1764636,53.1636592,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[ОАО "БелМеталл" филиал в г. Бобруйске]]></name>
+        <description>г.Бобруйск, ул. Западная, 1</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            29.1794159999999,53.160218,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>БУКДПОЖФ Первомайского р-на г. Бобруйска</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            29.1960784,53.1632855,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ЖЭУ 10</name>
+        <description>Пн.-пт.: с 08.00 -17.00 обед с 13.00-14.00 суббота - с 08.00 до 12.00</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            29.1962689,53.1605,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ДУТП «Бобруйский торговый центр»
+</name>
+        <description>Понедельник-пятница 9.00-16.00, суббота 9.00-14.00</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            29.2037559,53.156465,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ЖЭУ 7</name>
+        <description>Пн.-пт.: с 08.00 -17.00обед с 13.00-14.00суббота - с 08.00 до 12.00</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            29.2154107,53.1571642,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ООО «Скартекс»</name>
+        <description>Понедельник-суббота 8.00-17.00</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            29.1811005,53.1543792,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Бобруйское райпо</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            29.1718999,53.1402507,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[УЧТП "Фуджера"]]></name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            29.1865527,53.1513752,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

@@ -1,0 +1,1003 @@
+.features.hidden{
+    pointer-events: none;
+    opacity: 0;
+    transform: translateX(200px);
+}
+
+input[type="checkbox"] {
+  display: none;
+}
+
+input[type="checkbox"]:checked ~ .features {
+  display: block;
+}
+.werty {
+    position: absolute;
+    z-index: 1;
+}
+/* Стилизация псевдокнопки */
+.btn {
+    position: relative;
+    z-index: 1;
+  /* display: inline-block;
+  margin-bottom: 4px;
+  padding: 4px 8px;
+  background-color: #ffffff;
+  border: 1px solid #eeeeee; */
+  cursor: pointer;
+  left: 800px;
+  top: 700px;
+}
+.btn2 {
+    position: relative;
+    
+}
+.btn4 {
+    position: relative;
+    
+    cursor: pointer;
+    left: 800px;
+    top: 600px;
+}
+.btn5 {
+    position: relative;
+    
+    cursor: pointer;
+    left: 850px;
+    top: 600px;
+}
+.btn6 {
+    position: relative;
+   
+    cursor: pointer;
+    left: 850px;
+    top: 700px;
+}
+.btn7 {
+    position: relative;
+    
+    cursor: pointer;
+    left: 725px;
+    top: 700px;
+}
+.btn8 {
+    position: relative;
+    
+    cursor: pointer;
+    left: 675px;
+    top: 500px;
+}
+.btn9 {
+    position: relative;
+    
+    cursor: pointer;
+    left: 600px;
+    top: 750px;
+}
+iframe {
+    position: fixed;
+    width: 100%;
+    height: 100vh;
+    left: 0;
+    top: 0;
+}
+.features{
+    position: absolute;
+    z-index: 2;
+  left: 600px;
+    /* left: 1100px; */
+    top: 10px;
+    transition: .5s all ease;
+    
+}
+img#bottom {
+    position: absolute;
+    left: 0;
+  }
+  img#top {
+    position:absolute;
+    left: 10px;
+    top: 6px;
+  }
+  .uno {
+      position: absolute;
+      right: 52px;
+      bottom: 97px;
+      cursor: pointer;
+     
+  }
+  img#top-2 {
+      position: absolute;
+      top: 310.54px;
+     left: 38px;
+  }
+ .features h1 {
+     position: absolute;
+    top: 358px;
+    left: 38px;
+    width: 393px;
+    height: 56px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 33px;
+    
+    color: #000000;
+    margin-top: 17px;
+ }
+ .features h3 {
+     position: relative;
+     left: 189px;
+     top: 585px;
+     font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 140%;
+
+/* or 22px */
+
+
+color: #4B4B4B;
+ }
+ .features h4 {
+     position: relative;
+     left: 54px;
+     top: 430px;
+     font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 140%;
+/* or 22px */
+
+
+color: #4B4B4B;
+ }
+ a { text-decoration: none; }
+
+ 
+ img#top-3 {
+     position: absolute;
+     left: 10px;
+    top: 460px;
+     width: 493px;
+height: 0px;
+border: 1.5px solid #DFDFDF;
+ }
+ .features p {
+     position: absolute;
+     top: 490px;
+     left: 40px;
+     width: 189px;
+     height: 27px;
+     font-family: 'Roboto', sans-serif;
+     font-style: normal;
+     font-weight: 500;
+     font-size: 24px;
+     line-height: 28px;
+     
+     color: #4B4B4B;
+ }
+ img#top-4 {
+     position: absolute;
+    left: 297px;
+    top: 41px;
+ }
+ img#top-5 {
+     position: absolute;
+     left: 420.37px;
+     top: 484px;
+ }
+ .features h2 {
+     position: absolute;
+     top: 540px;
+     left: 37px;
+     width: 157px;
+height: 25px;
+font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 22px;
+line-height: 26px;
+
+color: #4B4B4B;
+ }
+ 
+ 
+ img#top-6 {
+     position: absolute;
+     left: 52px;
+     top: 53px;
+     width: 110px;
+height: 165px;
+font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 140%;
+/* or 22px */
+
+
+color: #4B4B4B;
+ }
+ img#top-7 {
+     position: absolute;
+     top: 53px;
+     left: 72px;
+     width: 98px;
+height: 165px;
+font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 140%;
+/* or 22px */
+
+
+color: #4B4B4B;
+ }
+ .use-2 {
+     position: absolute;
+     left: 500px;
+     top: 500px;
+     border: 0;
+ }
+ button:hover {
+    cursor: pointer;
+  }
+
+
+
+
+  .menu {
+      position: absolute;
+      z-index: 1;
+      left: 60px;
+    top: 15px;
+  }
+  img#super {
+      position: absolute;
+  }
+  .bob {
+      position: relative;
+      left: 45px;
+      top: 50px;
+      cursor: pointer;
+  }
+  .bob2 {
+      position: relative;
+      cursor: pointer;
+      right: 187px;
+      bottom: 100px;
+  }
+  .menu2,
+input[type="checkbox"] {
+  display: none;
+}
+
+input[type="checkbox"]:checked ~ .menu2 {
+  display: block;
+}
+  .menu2 {
+      position: absolute;
+      z-index: 2;
+      left: 60px;
+      top: 10px;
+  }
+ .menu2 p {
+     position: relative;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #00CC52;
+    left: 43px;
+    bottom: 152px;
+ }
+.menu2 h1 {
+    position: relative;
+    font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+left: 43px;
+bottom: 149px;
+
+color: #00CC52;
+}
+.menu2 h2 {
+    position: relative;
+    font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #00CC52;
+left: 43px;
+bottom: 141px;
+}
+a {
+    text-decoration: none;
+}
+.menu2 h3 {
+    position: relative;
+    font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 28px;
+
+color: #FE2867;
+bottom: 322px;
+left: 43px;
+cursor: pointer;
+text-decoration: none;
+}
+.menu2 h4 {
+    position: relative;
+    font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 28px;
+
+color: #FE2867;
+bottom: 324px;
+left: 43px;
+cursor: pointer;
+}
+.vhod {
+    position: relative;
+height: 100vh;
+width: 100%;
+background-color: #00CC52;
+
+    
+    /* background: #00CC52 url(../imgs/localgroup.png) bottom left no-repeat; */
+
+}
+/* img#cat {
+    position: relative;
+    top: 211px;
+} */
+.vhod h1 {
+    position: absolute;
+    font-style: normal;
+font-weight: 500;
+font-size: 72px;
+line-height: 84px;
+
+color: #FFFFFF;
+left: 860px;
+bottom: 602px;
+
+}
+.form {
+    position: absolute;
+width: 252px;
+height: 49px;
+left: 860px;
+bottom: 514px;
+border-radius: 10px;
+}
+.winter {
+    position: absolute;
+    width: 252px;
+    height: 49px;
+    left: 810px;
+    bottom: 436px;
+    border-radius: 10px;
+}
+.bomb {
+    position: absolute;
+    width: 252px;
+    height: 49px;
+    left: 710px;
+    top: 430px;
+border-radius: 10px;
+background: #FE2867;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 28px;
+
+color: #FFFFFF;
+}
+img#has {
+    position: relative;
+   bottom: 264px;
+   right: 300px;
+   cursor: pointer;
+}
+.dady {
+    position: absolute;
+    width: 252px;
+    height: 49px;
+    left: 860px;
+    top: 530px;
+    border-radius: 10px;
+    
+}
+.flat-input{
+    padding: 0 20px;
+    box-sizing: border-box;
+}
+.vhod2 {
+    position: relative;
+    height: 100vh;
+    
+    background: #00CC52;
+}
+img#cat2 {
+    position: relative;
+    top: 200px;
+}
+.vhod2 h1 {
+    position: absolute;
+    font-style: normal;
+font-weight: 500;
+font-size: 72px;
+line-height: 84px;
+
+color: #FFFFFF;
+left: 740px;
+bottom: 602px;
+
+}
+.form {
+    position: absolute;
+width: 252px;
+height: 49px;
+left: 810px;
+bottom: 514px;
+border-radius: 10px;
+}
+.winter2 {
+    position: absolute;
+    width: 252px;
+    height: 49px;
+    left: 810px;
+    bottom: 440px;
+    border-radius: 10px;
+}
+.bomb2 {
+    position: absolute;
+    width: 252px;
+    height: 49px;
+    left: 710px;
+    top: 490px;
+border-radius: 10px;
+background: #FE2867;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 28px;
+
+color: #FFFFFF;
+}
+img#has2 {
+    position: relative;
+    bottom: 264px;
+   right: 300px;
+   cursor: pointer;
+}
+.dady2 {
+    position: absolute;
+    width: 252px;
+    height: 49px;
+    left: 810px;
+    top: 520px;
+    border-radius: 10px;
+    
+}
+img#user {
+    position: relative;
+    bottom: 320px;
+    left: 47px;
+}
+
+#map {
+   height: 100vh;
+
+   padding: 0;
+   
+  }
+  #map2 {
+    position: fixed;
+    width: 100%;
+    height: 100vh;
+    left: 0;
+    top: 0;
+    z-index: 0;
+  }
+  .btn16 {
+    position: relative;
+    z-index: 1;
+  /* display: inline-block;
+  margin-bottom: 4px;
+  padding: 4px 8px;
+  background-color: #ffffff;
+  border: 1px solid #eeeeee; */
+  cursor: pointer;
+  left: 800px;
+  top: 700px;
+}
+.btn10 {
+    position: relative;
+    
+    cursor: pointer;
+    left: 0px;
+    top: 0px;
+}
+.btn11 {
+    position: relative;
+    
+    cursor: pointer;
+    left: 0px;
+    top: 0px;
+}
+.btn12 {
+    position: relative;
+   
+    cursor: pointer;
+    left: 0px;
+    top: 0px;
+}
+.btn13 {
+    position: relative;
+    
+    cursor: pointer;
+    left: 0px;
+    top: 0px;
+}
+.btn14 {
+    position: relative;
+    
+    cursor: pointer;
+    left: 0px;
+    top: 0px;
+}
+.btn15 {
+    position: relative;
+    
+    cursor: pointer;
+    left: 0px;
+    top: 0px;
+}
+.profile {
+    position: relative;
+    height: 100vh;
+    
+    background: #00CC52;
+    
+}
+.menu3,
+input[type="checkbox"] {
+  display: none;
+}
+
+input[type="checkbox"]:checked ~ .menu3 {
+  display: block;
+}
+  .menu3 {
+      position: absolute;
+      z-index: 2;
+      left: 60px;
+      top: 10px;
+  }
+ .menu3 p {
+     position: relative;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #00CC52;
+    left: 43px;
+    bottom: 230px;
+ }
+.menu3 h1 {
+    position: relative;
+    font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+left: 43px;
+bottom: 220px;
+
+color: #00CC52;
+}
+.menu3 h2 {
+    position: relative;
+    font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #00CC52;
+left: 43px;
+bottom: 210px;
+}
+.bob3 {
+    position: relative;
+    cursor: pointer;
+    right: 187px;
+    bottom: 100px;
+}
+#circle {
+    /* Ellipse 4 */
+
+position: absolute ;
+left: 21.04%;
+right: 65.14%;
+top: 250px;
+bottom: 77.77%;
+
+background: #C4C4C4;
+border: 1px solid #000000;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+width: 75px;
+height: 75px;
+border-radius: 50px;
+
+
+}
+#Vector {
+    position: relative ;
+    left: 500px;
+    top: 230px;
+
+
+
+
+/* ВспомогательныйРозовый */
+
+
+}
+#fff {
+    position: relative;
+    top:350px;
+    left: 500px;
+}
+.profile h3 {
+    position: relative;
+    width: 494px;
+    height: 39px;
+    left: 750px;
+    top: 70px;
+    font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 42px;
+
+color: #FFFFFF;
+}
+.profile h4 {
+    position: relative;
+    width: 494px;
+height: 39px;
+left: 566px;
+top: 190px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 42px;
+
+color: #FFFFFF;
+}
+#rrr {
+    position: relative;
+    width: 479px;
+   height: 64px;
+   left: 740px;
+   top: 40px;
+
+}
+#bbb {
+    position: relative;
+    width: 49px;
+height: 49px;
+left: 1250px;
+bottom: 250px;
+}
+.blur {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.3);
+backdrop-filter: blur(4px);
+}
+
+
+.row {
+    position: relative;
+    right: 20px;
+    bottom: 270px;
+    z-index: 5;
+   
+    backdrop-filter: blur(0px);
+    margin: 0;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.logo {
+    width: 165px;
+    height: 247px;
+    margin-right: 54px;
+}
+
+.row .col-sm h1 {
+    position: relative;
+   left: 780px;
+   top: 350px;
+    width: 450px;
+    font-weight: 500;
+font-size: 24px;
+line-height: 28px;
+color: #FFFFFF;
+}
+
+.row .col-sm {
+    padding: 0;
+}
+
+.row .col-sm:nth-child(2) {
+    text-align: center;
+}
+
+.col-sm {
+    flex-grow: 0;
+}
+
+button {
+    position: relative;
+    top: 300px;
+    backdrop-filter: blur(0px);
+    background: #00FF66;
+    border-radius: 10px;
+    border: 0;
+    position: relative;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+button p {
+    
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    color: #FFFFFF;
+    margin: 8px 36px 13px 36px;
+}
+
+.welcome {
+    z-index: 5;
+    height: 100%;
+    top:50%;
+}
+
+.button:active {
+    visibility: hidden;
+}
+img#sss {
+    position: fixed;
+  
+    width: 100%;
+
+}
+img#geo {
+    position: relative;
+    left: 550px;
+top: 550px;
+}
+.container {
+    width: 100%;
+}
+
+.ogl p {
+    position: relative;
+    bottom: 300px;
+    width: 90%;
+    font-weight: 30%;
+    font-size: 340%;
+    line-height: 120%;
+    color: #ffffff;
+    margin: 2% 0 0 2%;
+}
+
+.sett {
+    margin-top: 3%;
+    align-items: center;
+    width: 100%;
+    margin-left: 2%;
+}
+
+.more {
+    position: relative;
+    bottom: 100px;
+    display: flex;
+    justify-content: center;
+    margin-top: 2%;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.item {
+    background-color: white;
+    overflow: hidden;
+    border-radius: 10px;
+    margin: 0 0 4% 0;
+}
+
+.item h1 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #000000;
+}
+
+.item .icon {
+    margin-top: 5%;
+    margin-left: 20px;
+    width: 90%;
+    height: 5%;
+}
+
+.item .poisk {
+    float: right;
+    width: 57px;
+    height: 57px;
+}
+
+.item p {
+    margin: 5% 0 4% 4%;
+    width: 100%;
+    height: 25%;
+    font-weight: 500;
+    font-size: 190%;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    color: #4B4B4B;
+}
+
+.glavnoe {
+    width: 100%;
+    border-radius: 10px;
+    max-height: 100%;
+}
+
+.support {
+    position: relative;
+    bottom: 200px;
+    background-color: #ffffff;
+    width: 100%;
+    margin: 3% 0 0 0;
+    max-width: 100%;
+}
+
+.support h1 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 121.69%;
+    /* or 44px */
+    
+    display: flex;
+    align-items: center;
+    
+    color: #00CC52;
+}
+
+.support p {
+    position: relative;
+   top: 250px;
+    margin: 3% 0 0 10%;
+    font-weight: 200;
+    font-size: 150%;
+    line-height: 100%;
+    display: flex;
+    color: #00CC52;
+}
+
+.pay {
+    background: url('../imgs/supp.png') 50% 50% no-repeat;
+    background-size: contain;
+}
+
+.s {
+    position: relative;
+    top: 255px;
+    box-sizing: border-box;
+    margin: 3% 0 3% 3%;
+    max-width: 252px;
+    max-height: 80px;
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+    background-color: #00CC52;
+    color: #ffffff;
+    padding: 10px;
+}
+
+.farm {
+    height: 100%;
+    border: 2.5px solid #00CC52;
+    border-radius: 10px;
+    max-width: 252px;
+    max-height: 49px;
+    width: 100%;
+    margin: 3% 0 3% 0;
+}
+
+.form {
+    height: 100%;
+    border: 2.5px solid #00CC52;
+    border-radius: 10px;
+    max-width: 252px;
+    max-height: 49px;
+    width: 100%;
+ 
+}
+
+.atribute {
+    border-radius: 10px;
+}
+
+.support .system {
+    padding: 0 0 4% 0;
+}
+
+footer {
+    margin: 10% 0 0 2%;
+    width: 100%;
+    height: 193px;
+}
+
+footer a img {
+    width: 62.31px;
+    height: 62.31px;
+}
+
+.contakt {
+    position: relative;
+    right: 300px;
+    bottom: 50px;
+    align-items: center;
+}
+
+.phone {
+    position: relative;
+    right: 150px;
+    width: 500px;
+    text-align: center;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 130%;
+    line-height: 140%;
+}
+
+.ooo {
+    position: relative;
+   left: 200px;
+    align-items: center;
+    text-align: center;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 200%;
+    line-height: 140%;
+}
+.button h5 {
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+display: flex;
+align-items: center;
+text-align: center;
+}

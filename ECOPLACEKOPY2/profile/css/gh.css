@@ -1,0 +1,19 @@
+    .oll h1 {
+        color: #ffffff;
+        width: 90%;
+        font-weight: 30%;
+        font-size: 340%;
+        line-height: 120%;
+        margin-top: 17px;
+    }
+    
+    .oll {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        display: inline-flex;
+        display: -webkit-box;
+        margin-top: 3%;
+        width: 100%;
+        max-height: 100%;
+    }
